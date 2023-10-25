@@ -1,11 +1,11 @@
 # Description
-This is a task presented by Dr. John Williams in the MITxPRO MERN Course. In this exercise, the eyes follow the cursor as it moves across the screen.
+Live monitoring of the positions of Line 1 buses in Boston. This task was suggested by Dr. Mr. Abel Sanchez. 
 
 # How to run
 Open html file (index.html) with your browser.
 
 # Roadmap of future improvements
-Ensure that the eyes track the cursor as it passes over them.
+Add bus information.
 
 # MIT License
 Copyright (c) 2023 Jesús Frías
